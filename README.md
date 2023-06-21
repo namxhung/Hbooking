@@ -17,20 +17,28 @@ Chúng tôi tự hào được mang đến cho người dùng một trang web đ
 Website Đặt Phòng Khám Bệnh cung cấp các chức năng chính sau:
 
 Đặt lịch khám: Người dùng có thể chọn phòng khám, bác sĩ và thời gian khám bệnh, nhận thông báo qua email
+
 Xem danh sách cuộc hẹn: Người dùng có thể xem danh sách các cuộc hẹn đã đặt và thông tin chi tiết về từng cuộc hẹn.
+
 Hủy cuộc hẹn: Người dùng có thể hủy bỏ các cuộc hẹn đã đặt trước đó.
+
 Tìm kiếm phòng khám: Người dùng có thể tìm kiếm phòng khám theo địa điểm, chuyên khoa hoặc tên phòng khám.
+
 Quản lý thông tin cá nhân: Người dùng có thể cập nhật thông tin cá nhân và mật khẩu.
 
 # Công nghệ sử dụng
 Dự án được xây dựng bằng các công nghệ sau:
 
 Ngôn ngữ lập trình: JavaScript
+
 Framework web: Node.js
+
 Cơ sở dữ liệu: mySQL
+
 Thư viện UI: React.js
 
 # Đồ án được xây dựng bởi:
 
 Người dùng 1: [Nguyễn Nam Hùng](https://namhung.id.vn)
+
 Người dùng 1: [Đoàn Minh Tiến‌]
