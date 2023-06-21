@@ -1,4 +1,6 @@
-# Giớ thiệu
+## Đồ án Website Đặt lịch khám chữa bệnh
+
+# Giới thiệu
 Trong thời đại công nghệ 4.0 ngày nay, việc đặt lịch khám bệnh trở nên ngày càng quan trọng và cần thiết. Nhưng đôi khi, quá trình đặt lịch này lại gây ra nhiều phiền toái và mất thời gian cho cả bệnh nhân và các cơ sở y tế.
 
 Với mục tiêu giải quyết vấn đề này, đồ án sinh viên của chúng tôi đã tạo ra một trang web đặt lịch khám bệnh dễ sử dụng và tiện ích. Trang web này cho phép người dùng dễ dàng tra cứu thông tin về các cơ sở y tế, bác sĩ và các dịch vụ y tế khác nhau.
