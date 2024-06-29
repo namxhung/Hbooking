@@ -41,6 +41,6 @@ Thư viện UI: React.js
 
 # Đồ án được xây dựng bởi:
 
-Người dùng 1: [Nguyễn Nam Hùng](https://namhung.id.vn)
+Người dùng 1: [Nguyễn Nam Hùng](https://namxhung.net)
 
 Người dùng 1: [Đoàn Minh Tiến‌]
